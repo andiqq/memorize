@@ -31,30 +31,7 @@ class EmojiMemoryGame: ObservableObject {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//Preview
 
 struct EmojiMemoryGame_Previews: PreviewProvider {
     static var previews: some View {
